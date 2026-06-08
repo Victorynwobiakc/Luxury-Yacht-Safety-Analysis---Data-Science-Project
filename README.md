@@ -8,4 +8,8 @@ We aim to ensure that in emergencies, all passengers, regardless of class and ag
 
 Our team suspects that higher-class passengers on the Titanic had higher survival chances, and wants you to visualize the data to verify this suspicion.
 
-Goals: See if survival rate had anything to do with the passanger class. Also, access the age of the passengers within each classs to indentify vulnerable age categories.
+**Goals:** See if survival rate had anything to do with the passanger class. Also, access the age of the passengers within each classs to indentify vulnerable age categories.
+
+[**View Project:**](https://colab.research.google.com/drive/1aNVGNdbNLFyORW_Jrctx_h7_iGo9pq5o?usp=sharing)
+
+**Tableau Dashboard :**
