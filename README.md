@@ -10,6 +10,6 @@ Our team suspects that higher-class passengers on the Titanic had higher surviva
 
 **Goals:** See if survival rate had anything to do with the passanger class. Also, access the age of the passengers within each classs to indentify vulnerable age categories.
 
-[**View Project:**](https://colab.research.google.com/drive/1aNVGNdbNLFyORW_Jrctx_h7_iGo9pq5o?usp=sharing)
+[**View Project**](https://colab.research.google.com/drive/1aNVGNdbNLFyORW_Jrctx_h7_iGo9pq5o?usp=sharing)
 
-**Tableau Dashboard :**
+[**Tableau Dashboard**](https://public.tableau.com/app/profile/victory.nwobia/viz/Titanic1-DAproject/Titanic1-DAproject-TableauDashboard)
